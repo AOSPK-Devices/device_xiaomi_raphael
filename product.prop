@@ -1,2 +1,5 @@
 # Device
 ro.build.characteristics=nosdcard
+
+# Seamless transfer
+sys.fflag.override.settings_seamless_transfer=true
